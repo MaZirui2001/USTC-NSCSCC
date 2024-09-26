@@ -1,0 +1,3 @@
+[submodule "2022-clap"]
+	path = 2022-clap
+	url = https://github.com/npz7yyk/clap.git
