@@ -17,6 +17,9 @@
 * 2023-creeper：Creeper
   * 获奖：Loongarch赛道三等奖
   * 成员：曹宸瑞、来泽远、徐翊然、徐航宇
+* 2023-ambercpu: AmberCPU
+  * 获奖：Loongarch赛道优胜奖
+  * 成员：常文正、刘睿博、闫泽轩、于硕
 
 ### 2024年第八届
 

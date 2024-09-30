@@ -7,3 +7,6 @@
 [submodule "2022-JiuZhangSanHao"]
 	path = 2022-JiuZhangSanHao
 	url = https://github.com/vhicrgit/NSCSCC2022
+[submodule "2023-ambercpu"]
+	path = 2023-ambercpu
+	url = https://github.com/JYJSXX/AmberCPU
