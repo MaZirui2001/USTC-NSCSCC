@@ -4,3 +4,6 @@
 [submodule "2023-creeper"]
 	path = 2023-creeper
 	url = https://github.com/XhyDds/creep
+[submodule "2022-JiuZhangSanHao"]
+	path = 2022-JiuZhangSanHao
+	url = https://github.com/vhicrgit/NSCSCC2022
