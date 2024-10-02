@@ -10,3 +10,9 @@
 [submodule "2023-ambercpu"]
 	path = 2023-ambercpu
 	url = https://github.com/JYJSXX/AmberCPU
+[submodule "2024-ShenWeiChaoHuZhiGuang"]
+	path = 2024-ShenWeiChaoHuZhiGuang
+	url = https://github.com/xxxxxyang/ustc_nscscc_2024_3
+[submodule "2024-CAGI"]
+	path = 2024-CAGI
+	url = https://github.com/USTCCAGI/LoongArch
