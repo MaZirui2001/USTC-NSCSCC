@@ -16,3 +16,6 @@
 [submodule "2024-CAGI"]
 	path = 2024-CAGI
 	url = https://github.com/USTCCAGI/LoongArch
+[submodule "2024-DaJiangDaHe"]
+	path = 2024-DaJiangDaHe
+	url = https://github.com/XHuiWang/DaJiangDaHe
